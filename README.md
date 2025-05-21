@@ -1,4 +1,4 @@
-# Gondar-EHR
+# GondarPHCU_EHR
 # EHR System for Gondar Health Centers
 
 A secure Electronic Health Record (EHR) system designed for eight health centers in Gondar, Ethiopia. Built by Shegaw Marie, a software engineering student at the University of Gondar, this system manages patient records, supports offline functionality, and includes Amharic/English interfaces for accessibility.
